@@ -25,7 +25,7 @@ a {
 
 .remark-code, .remark-inline-code {
   font-family: 'Ubuntu Mono';
-  font-size: 22px;
+  font-size: 25px;
   line-height: 1.2em;
 }
 
@@ -41,9 +41,18 @@ a {
 
 .citation {
   background-color: #F49BC2;
-  vertical-align: bottom;
   display: inline;
+  position: absolute;
+  bottom: 2em;
+  left: 2em;
+}
 
+.align-right {
+  float: right;
+}
+
+.align-left {
+  float: left;
 }
 
 .quote {
