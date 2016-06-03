@@ -18,6 +18,11 @@ h1, h2, h3, h4 {
   line-height: 1.5;
 }
 
+.remark-slide-content .massive-one{
+  font-size: 150px;
+  line-height: 1.5;
+}
+
 a {
   text-decoration: none;
   color: #17223c; 
