@@ -1,6 +1,6 @@
 # Taking on Genetically Evolving Cellular Automta with JavaScript
 
-Upcoming [JSConf UY](https://jsconf.uy/) Talk on Cellular Automata :dancer: 
+Upcoming [ScotlandJS](https://scotlandjs.com/) Talk on Cellular Automata :dancer: 
 
 ---
 
